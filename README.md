@@ -22,9 +22,9 @@ This Game is build with several classes
         "D": [[2, 5], False],
     }
 
-* is_night method to check if a key from board is a night
+* `is_night` method to check if a key from board is a night
  
-* apply_instructions methods to apply all move written in game_instructions.txt file
+* `apply_instructions` methods to apply all move written in game_instructions.txt file
  
 
 ### ReadWriteFile class
@@ -35,10 +35,10 @@ This Game is build with several classes
 This a class which handle all instructions from instruction file
  
 #### It has:
-* items_priorities dictionary to show the items priority
-* items array to show the list of items keys
-* nights array to show the list of night keys 
-* move method which is a general method to handle each given instruction 
+* `items_priorities` dictionary to show the items priority
+* `items` array to show the list of items keys
+* `nights` array to show the list of night keys 
+* `move` method which is a general method to handle each given instruction 
 
 * `find_location` method which find the location where the night will move to
 
