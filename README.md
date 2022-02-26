@@ -6,7 +6,7 @@ There is no specific library to install as long as python 3.7 is used but it is 
 
 This Game is build with several classes
 
-### MainGameHandler
+### MainGameHandler class
 
 -> This a class which start the game 
 #### It Has:
