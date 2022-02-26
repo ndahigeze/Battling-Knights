@@ -24,7 +24,7 @@ This Game is build with several classes
 
 * `is_night` method to check if a key from board is a night
  
-* `apply_instructions` methods to apply all move written in game_instructions.txt file
+* `apply_instructions` methods to apply all move written in `moves.txt` file
  
 
 ### ReadWriteFile class
