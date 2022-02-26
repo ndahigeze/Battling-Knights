@@ -40,17 +40,17 @@ This a class which handle all instructions from instruction file
 * nights array to show the list of night keys 
 * move method which is a general method to handle each given instruction 
 
-* find_location method which find the location where the night will move to
+* `find_location` method which find the location where the night will move to
 
-* get_best_item method which get item on tile if there are two it gets the best item
+* `get_best_item` method which get item on tile if there are two it gets the best item
 
-* find_item_value which find the value of given item
+* `find_item_value` method which find the value of given item
 
-* check_another_night method to check if there is another night already on the location
+* `check_another_night` method to check if there is another night already on the location
 
-* fight method which handle find and return the loser and the winder 
+* `fight method which` method to handle find and return the loser and the winder 
 
-* acquire_item which allow a night to acquire new item
+* `acquire_item which` method to allow a night to acquire new item
 
 Usage
 
